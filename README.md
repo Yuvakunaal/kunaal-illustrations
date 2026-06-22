@@ -200,6 +200,21 @@ The root README, LICENSE, and NOTICE are repository sharing documents.
 
 ---
 
+## License
+
+This repository uses a **dual license** structure:
+
+| Content | License |
+|---|---|
+| Skill code, prompt templates, agent configs, Markdown docs | [MIT License](LICENSE) |
+| Example images, character IPs, style/composition references | [CC BY 4.0](LICENSE-ASSETS) |
+
+**CC BY 4.0 assets require attribution.** When using or adapting images, character IPs, or style references from this repo, credit **"Kunaal's Illustrations" by Kunaal** and link back to this repository.
+
+See [NOTICE.md](NOTICE.md) for full details.
+
+---
+
 ## About the Author
 
 **Kunaal**
