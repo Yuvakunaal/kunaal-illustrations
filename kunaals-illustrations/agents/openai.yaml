@@ -1,0 +1,6 @@
+interface:
+  display_name: "Kunaal's Illustrations"
+  short_description: "Generate clean, bizarre in-text illustration assets featuring the Reference Boy or Girl IP for English articles."
+  default_prompt: "Use $kunaals-illustrations to design and generate several bizarre in-text illustrations for this English article."
+policy:
+  allow_implicit_invocation: true
