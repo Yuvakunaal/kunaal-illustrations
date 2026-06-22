@@ -5,12 +5,12 @@
 > Wide Composition | Boy & Girl IPs | Pure White Hand-drawn | Sparse Red/Orange/Blue Annotations | Agent Skill
 
 <div align="center">
-  <img src="kunaals-illustrations/boy_hi_kunaal_1782160962876.png" alt="Hi, I am Kunaal">
+  <img src="kunaals-illustrations/boy_hi_kunaal_1782160962876.png" alt="Hi, I am Kunaal" width="400">
 </div>
 
 ---
 
-## ⚡ Quick Start (For Antigravity Users)
+## ⚡ Quick Start
 
 1. Open **Antigravity**.
 2. Select the **Gemini 3.1 pro (High)** model.
