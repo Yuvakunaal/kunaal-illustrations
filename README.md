@@ -5,7 +5,7 @@
 > Wide Composition | Boy & Girl IPs | Pure White Hand-drawn | Sparse Red/Orange/Blue Annotations | Agent Skill
 
 <div align="center">
-  <img src="kunaals-illustrations/boy_hi_kunaal_1782160962876.png" alt="Hi, I am Kunaal" width="400">
+  <img src="kunaals-illustrations/boy_hi_kunaal_circle.png" alt="Hi, I am Kunaal" width="300">
 </div>
 
 ---
