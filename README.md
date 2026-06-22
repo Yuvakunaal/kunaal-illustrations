@@ -2,7 +2,7 @@
 
 > Turn the judgments, processes, states, and metaphors in your English articles into clean, hand-drawn, bizarre-but-refreshing inline illustrations.
 >
-> 16:9 Horizontal | Boy & Girl IPs | Pure White Hand-drawn | Sparse Red/Orange/Blue Annotations | Agent Skill
+> Wide Composition | Boy & Girl IPs | Pure White Hand-drawn | Sparse Red/Orange/Blue Annotations | Agent Skill
 
 <div align="center">
   <img src="kunaals-illustrations/boy_hi_kunaal_1782160962876.png" alt="Hi, I am Kunaal">
@@ -23,7 +23,7 @@
 
 Kunaal's Illustrations is a Skill used to guide AI Agents to generate in-text illustrations for English articles, posts, blogs, Notion documents, and methodology content.
 
-It is not a generic illustration prompt, nor is it a PPT infographic template. Its core goal is: first understand the cognitive anchors in the article, and then turn a judgment, process, structure, state, or metaphor into a memorable 16:9 hand-drawn explanatory image.
+It is not a generic illustration prompt, nor is it a PPT infographic template. Its core goal is: first understand the cognitive anchors in the article, and then turn a judgment, process, structure, state, or metaphor into a memorable hand-drawn explanatory image.
 
 The default visual IPs are:
 1. **"Reference Boy"**: A simple hand-drawn boy with short black hair, light blue t-shirt, and grey pants.
@@ -59,7 +59,7 @@ Not suitable for:
 
 Default output:
 
-- 16:9 horizontal in-text illustrations.
+- Wide-composition, spacious in-text illustrations.
 - A shot list of 4-8 images for an article.
 - The theme, core meaning, structure type, character action, and English annotation suggestions for each image.
 - Final PNG images, which the AI will automatically save into a `Generated/` folder in your active workspace.
@@ -126,7 +126,7 @@ For each image clearly write: which paragraph it goes after, theme, core meaning
 
 ```text
 Use $kunaals-illustrations to generate 4 bizarre in-text illustrations for the article below.
-Requirements: 16:9 horizontal, pure white background, black hand-drawn line art, sparse red/orange/blue English handwritten annotations.
+Requirements: Wide composition, pure white background, black hand-drawn line art, sparse red/orange/blue English handwritten annotations.
 
 <Paste Article>
 ```
