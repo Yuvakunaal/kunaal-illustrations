@@ -10,7 +10,7 @@
 
 ---
 
-## ⚡ Quick Start
+## ⚡ Quick Start (use only Antigravity with Gemini model to get most accurate images)
 
 1. Open **Antigravity**.
 2. Select the **Gemini 3.1 pro (High)** model.
