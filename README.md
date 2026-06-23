@@ -25,6 +25,8 @@
 
 6. Type your prompt and start generating!
 
+> **Quota tip:** Antigravity's Gemini model has a limited generation quota per session. If you hit the limit, either switch to a different Google account to get a fresh quota, or upgrade to an Antigravity subscription for longer uninterrupted sessions.
+
 ---
 
 ## What is this repository?
@@ -225,6 +227,8 @@ See [NOTICE.md](NOTICE.md) for full details.
 
 ## About the Author
 
-**Kunaal**
+**Yuva Kunaal** — AI Engineer · SaaS Founder · Player 457
 
-- This repository is a personalized tool for generating custom abstract illustrations.
+Built this as a personal tool to generate consistent, bizarre in-text illustrations for English articles and knowledge content.
+
+[Portfolio](https://kunaal-portfolio.vercel.app/)
