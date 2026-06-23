@@ -233,19 +233,19 @@ Built this as a personal tool to generate consistent, bizarre in-text illustrati
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/boggavarapu-yuva-satya-kunaal-127817290/">
+<a href="https://www.linkedin.com/in/boggavarapu-yuva-satya-kunaal-127817290/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:bhavikunaal@gmail.com">
+<a href="mailto:bhavikunaal@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://kunaal-portfolio.vercel.app/">
+<a href="https://kunaal-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="https://dev.to/yuva_kunaal">
+<a href="https://dev.to/yuva_kunaal" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 </a>
 
