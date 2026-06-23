@@ -17,7 +17,7 @@
 3. In the chat, paste this repository's `.git` URL and tell the agent to install this repo or clone this repo.
 4. Once installed, send this message to the agent:
 
-   > "Read `kunaals-illustrations/SKILL.md` and all files inside `kunaals-illustrations/references/` fully. Understand the style rules, character IPs, composition patterns, and prompt template completely. Once done, ask me for my illustration prompt."
+   > "Read `kunaals-illustrations/SKILL.md` and all files inside `kunaals-illustrations/references/` fully. Understand the style rules, character IPs, composition patterns, prompt template, and delivery rules completely — including that every generated image must be saved to the `Generated/` folder in the workspace (create folder if not exist). Once done, ask me for my illustration prompt."
 
 5. The agent will confirm it has understood everything, then ask you:
 
