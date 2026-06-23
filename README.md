@@ -227,8 +227,26 @@ See [NOTICE.md](NOTICE.md) for full details.
 
 ## About the Author
 
-**Yuva Kunaal** — AI Engineer · SaaS Founder · Player 457
+**Yuva Kunaal** — AI Engineer · SaaS Founder · Vibe coder
 
 Built this as a personal tool to generate consistent, bizarre in-text illustrations for English articles and knowledge content.
 
-[Portfolio](https://kunaal-portfolio.vercel.app/)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/boggavarapu-yuva-satya-kunaal-127817290/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:bhavikunaal@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://kunaal-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://dev.to/yuva_kunaal">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
+
+</div>
