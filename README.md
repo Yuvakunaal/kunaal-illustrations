@@ -102,21 +102,11 @@ This skill defaults to the "Bizarre In-text Illustration" style:
 Clone the repository:
 
 ```bash
-git clone https://github.com/kunaal/kunaals-illustrations.git
-cd kunaals-illustrations
+git clone https://github.com/Yuvakunaal/kunaal-illustrations.git
+cd kunaal-illustrations
 ```
 
-Copy the skill to your agents directory:
-
-```bash
-cp -R ./kunaals-illustrations ~/.gemini/config/skills/
-```
-
-Once installed, you can use it in your AI workspace:
-
-```text
-Use $kunaals-illustrations to design and generate 5 bizarre illustrations for this English article.
-```
+The skill directory is `kunaals-illustrations/`. Point your agent tool to it, or follow the Quick Start above to use it directly via Antigravity.
 
 ---
 
@@ -172,7 +162,16 @@ The workflow for this skill is:
 .
 ├── README.md
 ├── LICENSE
+├── LICENSE-ASSETS
 ├── NOTICE.md
+├── CODE_OF_CONDUCT.md
+├── SECURITY.md
+├── CONTRIBUTING.md
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   └── feature_request.md
+│   └── pull_request_template.md
 └── kunaals-illustrations/
     ├── SKILL.md
     ├── agents/
