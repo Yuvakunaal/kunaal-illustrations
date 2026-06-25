@@ -22,3 +22,13 @@ Generate an illustration: "A girl is seeing his mobile by sitting in the park wi
 girl_studying_no_labels_1782159054355.png
 Prompt:
 Generate an illustration: "A girl reading books with a small smile in her room with a fan and her table and chair study setup (without labels)"
+
+6.
+boy_jumping_tasks.png
+Prompt:
+Generate an illustration: "A boy is jumping between three floating paper islands each with an unfinished task on it, looking exhausted and never landing on any one (labels: task A, task B, task C, focus = 0)"
+
+7.
+girl_writing_structure.png
+Prompt:
+Generate an illustration: "A girl is sitting at a desk writing, with a messy tangled thought cloud above her head and clean structured lines appearing on the paper below her pen tip (labels: raw thought, writing begins, structure appears)"
