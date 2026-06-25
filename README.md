@@ -10,6 +10,23 @@
 
 ---
 
+## Gallery
+
+> Real outputs from this skill — paste a prompt, get a hand-drawn illustration.
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="kunaals-illustrations/assets/examples/boy_frustrated_grades_1782159299897.png" width="240"> | <img src="kunaals-illustrations/assets/examples/girl_studying_no_labels_1782159054355.png" width="240"> | <img src="kunaals-illustrations/assets/examples/cat_troubling_fishes_1782158732969.png" width="240"> |
+| *Boy frustrated with exam grades* | *Girl studying in her room* | *Cat troubling fish in the park* |
+| <img src="kunaals-illustrations/assets/examples/girl_in_park_crossed_legs_1782158496559.png" width="240"> | <img src="kunaals-illustrations/assets/examples/boy_girl_dining_greeting_1782159153631.png" width="240"> | <img src="Generated/teacher_robot_examples.png" width="240"> |
+| *Girl on phone in the park* | *Boy & girl at dining table* | *Teacher & robot in action* |
+
+</div>
+
+---
+
 ## ⚡ Quick Start (use only Antigravity with Gemini model to get most accurate images)
 
 1. Open **Antigravity**.
